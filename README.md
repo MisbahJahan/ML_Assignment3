@@ -7,3 +7,6 @@
 ###### Sklearn metrices
 ###### Matplotlib
 ###### For the data, I have used the kaggle data of natural scenes. In google colab, using kaggle API, downloaded the data.
+![image](https://github.com/MisbahJahan/ML_Assignment3/assets/154371429/ca9d3f54-b2e4-4675-b039-1b2f371e09f2)
+![image](https://github.com/MisbahJahan/ML_Assignment3/assets/154371429/3ff519f5-9c61-4438-b6f9-afea12f8ad50)
+
